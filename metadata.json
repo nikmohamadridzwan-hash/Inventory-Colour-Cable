@@ -1,0 +1,6 @@
+{
+  "name": "CoreFinder",
+  "description": "Bi-directional optical fiber core number and colour code finder for loose tube and slotted cables.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

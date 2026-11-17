@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">CoreFinder</string>
+    <string name="app_header_title">Fiber Core Colour Finder</string>
+    <string name="app_header_subtitle">Pick a cable type, then search by core number or by colour.</string>
+
+    <string name="tab_core_to_colour">By Core No.</string>
+    <string name="tab_colour_to_core">By Colour</string>
+    <string name="tab_color_chart">Color Chart</string>
+
+    <string name="section_select_cable">1. SELECT CABLE</string>
+    <string name="section_find_by_core">2. FIND COLOUR BY CORE NO.</string>
+    <string name="section_find_by_colour">3. FIND CORE BY COLOUR</string>
+
+    <string name="label_cable_type">Cable Type</string>
+    <string name="label_total_cores">Total Cores</string>
+    <string name="label_core_no">Core No.</string>
+    <string name="label_tube_no">Tube No.</string>
+    <string name="label_tube_colour">Tube Colour</string>
+    <string name="label_core_colour">Core Colour</string>
+    <string name="label_slot">Slot</string>
+    <string name="label_matches">Matches</string>
+
+    <string name="tip_any_full_map">Tip: set Tube Colour and Core Colour to "Any" to see the full core map of the selected cable.</string>
+    <string name="action_reset_to_any">Show Full Map (Any)</string>
+    <string name="action_import_csv">Import Excel CSV</string>
+    <string name="action_toggle_theme">Switch appearance theme</string>
+    <string name="action_select_cable">Change cable type</string>
+    <string name="action_previous_core">Previous core</string>
+    <string name="action_next_core">Next core</string>
+    <string name="sibling_cores_title">Same Tube / Group Cores</string>
+    <string name="empty_matches_title">No matching cores found</string>
+    <string name="empty_matches_subtitle">Try setting Tube Colour or Core Colour back to Any.</string>
+</resources>

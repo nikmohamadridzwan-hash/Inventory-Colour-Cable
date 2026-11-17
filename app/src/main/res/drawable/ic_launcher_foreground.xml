@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Fiber Buffer Ring (66dp safe zone: centered at 54,54, radius ~28) -->
+    <path
+        android:fillColor="#1E3A5F"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="2.5"
+        android:pathData="M54,26 A28,28 0 1,0 54,82 A28,28 0 1,0 54,26 Z" />
+
+    <!-- Top-Left Core (Blue) -->
+    <path
+        android:fillColor="#3B82F6"
+        android:pathData="M43,36 A6,6 0 1,0 43,48 A6,6 0 1,0 43,36 Z" />
+
+    <!-- Top-Right Core (Yellow) -->
+    <path
+        android:fillColor="#FACC15"
+        android:pathData="M65,36 A6,6 0 1,0 65,48 A6,6 0 1,0 65,36 Z" />
+
+    <!-- Right Core (Green) -->
+    <path
+        android:fillColor="#22C55E"
+        android:pathData="M71,54 A6,6 0 1,0 71,66 A6,6 0 1,0 71,54 Z" />
+
+    <!-- Bottom-Right Core (Red) -->
+    <path
+        android:fillColor="#EF4444"
+        android:pathData="M54,67 A6,6 0 1,0 54,79 A6,6 0 1,0 54,67 Z" />
+
+    <!-- Left Core (Violet) -->
+    <path
+        android:fillColor="#A855F7"
+        android:pathData="M37,54 A6,6 0 1,0 37,66 A6,6 0 1,0 37,54 Z" />
+
+    <!-- Central High-Contrast Optical Core (Aqua/White) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:strokeColor="#06B6D4"
+        android:strokeWidth="2.5"
+        android:pathData="M54,46 A8,8 0 1,0 54,62 A8,8 0 1,0 54,46 Z" />
+</vector>
